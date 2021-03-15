@@ -17,12 +17,12 @@ Proiectati si implementati urmatorul protocol de comunicare intre procese:
 ## Tema 2
 Redactarea raportului tehnic se va face in format LNCS (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Structura generala pe sectiuni a raportului va fi urmatoarea:
 
--[x] Introducere
--[x] Tehnologiile utilizate (e.g. TCP, UDP... - caracteristicile care au fost utilizate in cadrul proiectului). Justificati de ce ati ales aceste tehnologii.
--[x] Arhitectura aplicatiei (conceptele implicate, diagrama aplicatiei detaliata)
--[x] Detalii de implementare (cod relevant particular proiectului, care va fi documentat; scenarii de utilizare)
--[x] Concluzii (e.g. cum ar putea fi imbunatatita solutia propusa?)
--[x] Bibliografie
+- [x] Introducere
+- [x] Tehnologiile utilizate (e.g. TCP, UDP... - caracteristicile care au fost utilizate in cadrul proiectului). Justificati de ce ati ales aceste tehnologii.
+- [x] Arhitectura aplicatiei (conceptele implicate, diagrama aplicatiei detaliata)
+- [x] Detalii de implementare (cod relevant particular proiectului, care va fi documentat; scenarii de utilizare)
+- [x] Concluzii (e.g. cum ar putea fi imbunatatita solutia propusa?)
+- [x] Bibliografie
 
 ## Proiect
 Sa se implementeze un client si un server web de baza care vor comunica folosind protocolul TCP. Serverul va contine cateva pagini web (fisiere .html simple) si va pune la dispozitia clientilor urmatoarele comenzi: login (autentificarea la server), list (furnizeaza lista cu fisierele continute), get (copie o pagina web de pe server), add (uploadeaza pe server o pagina web), delete (sterge o pagina web de pe server). Clientul va interactiona cu serverul folosind comenzile oferite.
