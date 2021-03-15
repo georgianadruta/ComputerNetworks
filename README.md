@@ -25,4 +25,6 @@ Redactarea raportului tehnic se va face in format LNCS (https://www.springer.com
 - [x] Bibliografie
 
 ## Proiect
-Sa se implementeze un client si un server web de baza care vor comunica folosind protocolul TCP. Serverul va contine cateva pagini web (fisiere .html simple) si va pune la dispozitia clientilor urmatoarele comenzi: login (autentificarea la server), list (furnizeaza lista cu fisierele continute), get (copie o pagina web de pe server), add (uploadeaza pe server o pagina web), delete (sterge o pagina web de pe server). Clientul va interactiona cu serverul folosind comenzile oferite.
+- [x] Sa se implementeze un client si un server web de baza care vor comunica folosind protocolul TCP. 
+- [x] Serverul va contine cateva pagini web (fisiere .html simple) si va pune la dispozitia clientilor urmatoarele comenzi: login (autentificarea la server), list (furnizeaza lista cu fisierele continute), get (copie o pagina web de pe server), add (uploadeaza pe server o pagina web), delete (sterge o pagina web de pe server).
+- [x] Clientul va interactiona cu serverul folosind comenzile oferite.
